@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WIL-Tasks</string>
+
+    <string name="select_user_prompt">Select User</string>
+
+        <string-array name="task_status_options">
+            <item>Pending</item>
+            <item>In Progress</item>
+            <item>Completed</item>
+        </string-array>
+
+</resources>

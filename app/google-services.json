@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823128606154",
+    "project_id": "wil-tasks24",
+    "storage_bucket": "wil-tasks24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823128606154:android:6ce72cced307d5fc09fb33",
+        "android_client_info": {
+          "package_name": "com.example.wil_tasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpmu_0rwTWWsL-6ziRaCdTJ3lXd1bvOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
